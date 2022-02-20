@@ -10,3 +10,4 @@ NeuroStartUp
 * Высокая точность поиска
 * Высокая скорость поиска
 * Низкая цена* 
+<a href ="http://netology.ru">Netology</a>
